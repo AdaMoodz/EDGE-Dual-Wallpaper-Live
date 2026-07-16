@@ -1,0 +1,43 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.edge.cityray.themephase1"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.edge.cityray.themephase1"
+        minSdk 30
+        targetSdk 34
+        versionCode 35
+        versionName "3.3.1-dual-factory-fix"
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix ".debug"
+            versionNameSuffix "-debug"
+        }
+        release {
+            minifyEnabled false
+            shrinkResources false
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    packagingOptions {
+        jniLibs {
+            useLegacyPackaging = true
+        }
+    }
+
+    lint {
+        disable "OldTargetApi"
+    }
+}
