@@ -38,9 +38,7 @@ Other CityRay firmware revisions may use different Geely services, permissions, 
 ## Install
 
 The latest build is available here:
-
-[[`release/EDGE_CITYRAY_LIVE_v3.3.3_DUAL_FACTORY_FIX.apk`]([release/EDGE_CITYRAY_LIVE_v3.3.1_DUAL_FACTORY_FIX.apk](https://github.com/AdaMoodz/EDGE-Dual-Wallpaper-Live/releases))](https://github.com/AdaMoodz/EDGE-Dual-Wallpaper-Live/releases)
-
+(https://github.com/AdaMoodz/EDGE-Dual-Wallpaper-Live/releases)
 
 
 Install the APK on the HU, allow the requested file access, and open **EDGE CityRay Live**. See [INSTALL.md](INSTALL.md) for the development/test installation notes.
