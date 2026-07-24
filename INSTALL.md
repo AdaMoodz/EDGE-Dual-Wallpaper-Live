@@ -2,7 +2,7 @@
 
 ## USB installation
 
-1. Copy `EDGE_CityRay_Live_Wallpaper_v2.4_Dual_Screen_Showcase.apk` to a USB drive.
+1. Copy `EDGE_CITYRAY_LIVE_v3.3.3_RELIABLE_DUAL.apk` to a USB drive.
 2. Open the APK from the CityRay file manager and approve installation from that source if prompted.
 3. Open **EDGE CityRay Live**.
 4. Choose a video from **HU Gallery** or **USB & Files**.
@@ -15,9 +15,9 @@ If EDGE is not already the active live wallpaper:
 1. Enable Developer options and **Wireless debugging** on the HU.
 2. Keep **Disable ADB authorization timeout** enabled when available.
 3. Open **Pair device with pairing code**.
-4. Enter only the six-digit code in EDGE. The pairing and connection ports are discovered automatically.
+4. Enter only the six-digit code in EDGE if The pairing and connection ports are discovered automatically.
 
-After successful pairing, future wallpaper updates are one tap. If EDGE is already active, changing the selected video does not require ADB or pairing.
+After successful pairing, future wallpaper updates are one tap. If EDGE is already active, changing the selected video does not require ADB or pairing any more.
 
 ## Video preparation
 
