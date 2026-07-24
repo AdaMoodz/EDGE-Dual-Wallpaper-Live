@@ -1,6 +1,6 @@
 # EDGE CityRay Dual-Wallpaper+Live
 
-An experimental wallpaper controller designed for the Geely CityRay `G426_J1` head unit. It combines muted looping video wallpapers for the Main HU with Geely factory dual-screen wallpaper controls for the Main HU and driver dashboard.
+An experimental wallpaper controller designed for the Geely CityRay `G426_J1` possibly Atlass head unit. It combines muted looping video wallpapers for the Main HU with Geely factory dual-screen wallpaper controls for the Main HU and driver dashboard.
 
 > [!IMPORTANT]
 > **YOU CAN ALWAYS RESET OR SWITCH BACK TO FACTORY WALLPAPERS.** Use the **Factory Wallpapers** recovery button at the bottom of the app to return to the original Geely wallpaper selector.
@@ -37,11 +37,11 @@ Other CityRay firmware revisions may use different Geely services, permissions, 
 
 ## Install
 
-The current test build is available here:
+The latest build is available here:
 
-[`release/EDGE_CITYRAY_LIVE_v3.3.1_DUAL_FACTORY_FIX.apk`](release/EDGE_CITYRAY_LIVE_v3.3.1_DUAL_FACTORY_FIX.apk)
+[[`release/EDGE_CITYRAY_LIVE_v3.3.3_DUAL_FACTORY_FIX.apk`]([release/EDGE_CITYRAY_LIVE_v3.3.1_DUAL_FACTORY_FIX.apk](https://github.com/AdaMoodz/EDGE-Dual-Wallpaper-Live/releases))](https://github.com/AdaMoodz/EDGE-Dual-Wallpaper-Live/releases)
 
-SHA-256: `455B817557DB26A67E569E0B99E79D237F411402D4A093FDA3223DE1819C1CD2`
+
 
 Install the APK on the HU, allow the requested file access, and open **EDGE CityRay Live**. See [INSTALL.md](INSTALL.md) for the development/test installation notes.
 
@@ -71,6 +71,6 @@ The APK is generated under `app/build/outputs/apk/release/`.
 
 ## Status
 
-Version `3.3.1-dual-factory-fix` was built, linted, signature-checked, installed, and exercised on the connected `G426_J1` test HU.
+Version `3.3.3-dual-factory + live` was built, linted, signature-checked, installed, and exercised on the connected `G426_J1` test HU.
 
 This is an independent experimental project and is not an official Geely application.
